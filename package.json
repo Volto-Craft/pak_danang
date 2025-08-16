@@ -1,0 +1,12 @@
+{
+  "name": "aternos-bot",
+  "version": "1.0.0",
+  "description": "Bot Minecraft untuk server Aternos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.15.0"
+  }
+}
